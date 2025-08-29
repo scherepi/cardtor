@@ -1,0 +1,2 @@
+HOTSPOT_SSID = your_hotspot_name_here
+HOTSPOT_PASSWORD = your_hotspot_password
